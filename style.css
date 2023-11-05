@@ -169,6 +169,7 @@ section {
   height: 80vh;
 }
 
+
 .section__pic-container {
   display: flex;
   height: 400px;
@@ -265,6 +266,7 @@ section {
 
 #about {
   position: relative;
+  /* margin-top: 12rem; */
 }
 
 .about-containers {
@@ -318,7 +320,7 @@ section {
   margin: auto 0;
 }
 
-/* EXPERIENCE SECTION */
+/* skills SECTION */
 
 #experience {
   position: relative;
