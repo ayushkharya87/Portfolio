@@ -52,6 +52,10 @@
   .about-containers {
     margin-top: 0;
   }
+
+  #about {
+    margin-top: 11rem;
+  }
 }
 
 
@@ -115,5 +119,9 @@
   .text-container {
     text-align: justify;
 
+  }
+
+  #about {
+    margin-top: 8rem;
   }
 }
